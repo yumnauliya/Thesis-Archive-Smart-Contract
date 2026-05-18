@@ -1,7 +1,5 @@
 # Thesis Archive Smart Contract
 
-ID: CAQI4LZ2GC3R2GZLXS6B3SJJQENPQZPWFMUKXDJ6I6ZRALOZF2KZ3UR2
-
 A blockchain-based thesis archive system built using Soroban Smart Contracts on the Stellar network.
 
 This project was created to help Computer Engineering students manage and search archived thesis data from alumni based on specialization categories such as:
